@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-09-22T17:04:47 IST" name="Suite" finished-at="2025-09-22T17:05:52 IST" duration-ms="65802">
+    <groups>
+    </groups>
+    <test started-at="2025-09-22T17:04:47 IST" name="Test" finished-at="2025-09-22T17:05:52 IST" duration-ms="65802">
+      <class name="NG_MA_SE_Jenkins.Jenkins.com.Demo">
+        <test-method signature="tryme()[pri:0, instance:NG_MA_SE_Jenkins.Jenkins.com.Demo@dd8ba08]" started-at="2025-09-22T17:04:47 IST" name="tryme" finished-at="2025-09-22T17:05:41 IST" duration-ms="54348" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tryme -->
+      </class> <!-- NG_MA_SE_Jenkins.Jenkins.com.Demo -->
+      <class name="NG_MA_SE_Jenkins.Jenkins.com.ProductAdd">
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:NG_MA_SE_Jenkins.Jenkins.com.ProductAdd@2e005c4b]" started-at="2025-09-22T17:04:47 IST" name="SetUp" finished-at="2025-09-22T17:05:14 IST" duration-ms="27187" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method is-config="true" signature="loginFirst()[pri:0, instance:NG_MA_SE_Jenkins.Jenkins.com.ProductAdd@2e005c4b]" started-at="2025-09-22T17:05:14 IST" name="loginFirst" finished-at="2025-09-22T17:05:17 IST" duration-ms="3432" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginFirst -->
+        <test-method signature="completePurchase()[pri:0, instance:NG_MA_SE_Jenkins.Jenkins.com.ProductAdd@2e005c4b]" started-at="2025-09-22T17:05:17 IST" name="completePurchase" finished-at="2025-09-22T17:05:20 IST" duration-ms="2597" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- completePurchase -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:NG_MA_SE_Jenkins.Jenkins.com.ProductAdd@2e005c4b]" started-at="2025-09-22T17:05:20 IST" name="TearDown" finished-at="2025-09-22T17:05:35 IST" duration-ms="15372" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- NG_MA_SE_Jenkins.Jenkins.com.ProductAdd -->
+      <class name="NG_MA_SE_Jenkins.Jenkins.com.CartTets">
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:NG_MA_SE_Jenkins.Jenkins.com.CartTets@37afeb11]" started-at="2025-09-22T17:04:47 IST" name="SetUp" finished-at="2025-09-22T17:05:16 IST" duration-ms="28942" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method is-config="true" signature="loginFirst()[pri:0, instance:NG_MA_SE_Jenkins.Jenkins.com.CartTets@37afeb11]" started-at="2025-09-22T17:05:16 IST" name="loginFirst" finished-at="2025-09-22T17:05:19 IST" duration-ms="3056" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginFirst -->
+        <test-method signature="addItemsToCart()[pri:0, instance:NG_MA_SE_Jenkins.Jenkins.com.CartTets@37afeb11]" started-at="2025-09-22T17:05:19 IST" name="addItemsToCart" finished-at="2025-09-22T17:05:19 IST" duration-ms="505" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addItemsToCart -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:NG_MA_SE_Jenkins.Jenkins.com.CartTets@37afeb11]" started-at="2025-09-22T17:05:19 IST" name="TearDown" finished-at="2025-09-22T17:05:36 IST" duration-ms="17104" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:NG_MA_SE_Jenkins.Jenkins.com.CartTets@37afeb11]" started-at="2025-09-22T17:05:36 IST" name="SetUp" finished-at="2025-09-22T17:05:43 IST" duration-ms="7230" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method is-config="true" signature="loginFirst()[pri:0, instance:NG_MA_SE_Jenkins.Jenkins.com.CartTets@37afeb11]" started-at="2025-09-22T17:05:43 IST" name="loginFirst" finished-at="2025-09-22T17:05:44 IST" duration-ms="612" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginFirst -->
+        <test-method signature="removeItemsFromCart()[pri:0, instance:NG_MA_SE_Jenkins.Jenkins.com.CartTets@37afeb11]" started-at="2025-09-22T17:05:44 IST" name="removeItemsFromCart" finished-at="2025-09-22T17:05:49 IST" duration-ms="5395" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- removeItemsFromCart -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:NG_MA_SE_Jenkins.Jenkins.com.CartTets@37afeb11]" started-at="2025-09-22T17:05:49 IST" name="TearDown" finished-at="2025-09-22T17:05:52 IST" duration-ms="2899" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- NG_MA_SE_Jenkins.Jenkins.com.CartTets -->
+      <class name="NG_MA_SE_Jenkins.Jenkins.com.OutCard">
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:NG_MA_SE_Jenkins.Jenkins.com.OutCard@515aebb0]" started-at="2025-09-22T17:04:47 IST" name="SetUp" finished-at="2025-09-22T17:05:08 IST" duration-ms="21523" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method is-config="true" signature="loginFirst()[pri:0, instance:NG_MA_SE_Jenkins.Jenkins.com.OutCard@515aebb0]" started-at="2025-09-22T17:05:08 IST" name="loginFirst" finished-at="2025-09-22T17:05:10 IST" duration-ms="2166" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginFirst -->
+        <test-method signature="completePurchase()[pri:0, instance:NG_MA_SE_Jenkins.Jenkins.com.OutCard@515aebb0]" started-at="2025-09-22T17:05:10 IST" name="completePurchase" finished-at="2025-09-22T17:05:15 IST" duration-ms="4514" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- completePurchase -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:NG_MA_SE_Jenkins.Jenkins.com.OutCard@515aebb0]" started-at="2025-09-22T17:05:15 IST" name="TearDown" finished-at="2025-09-22T17:05:35 IST" duration-ms="20470" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- NG_MA_SE_Jenkins.Jenkins.com.OutCard -->
+      <class name="NG_MA_SE_Jenkins.Jenkins.com.LogInZig">
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:NG_MA_SE_Jenkins.Jenkins.com.LogInZig@708f5957]" started-at="2025-09-22T17:04:47 IST" name="SetUp" finished-at="2025-09-22T17:05:29 IST" duration-ms="42720" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="validLogin()[pri:1, instance:NG_MA_SE_Jenkins.Jenkins.com.LogInZig@708f5957]" started-at="2025-09-22T17:05:29 IST" name="validLogin" finished-at="2025-09-22T17:05:31 IST" duration-ms="2082" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validLogin -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:NG_MA_SE_Jenkins.Jenkins.com.LogInZig@708f5957]" started-at="2025-09-22T17:05:31 IST" name="TearDown" finished-at="2025-09-22T17:05:38 IST" duration-ms="6768" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- NG_MA_SE_Jenkins.Jenkins.com.LogInZig -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
