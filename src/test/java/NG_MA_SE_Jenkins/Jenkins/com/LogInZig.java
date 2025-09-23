@@ -26,6 +26,7 @@ public class LogInZig extends BaseFix
 	AssertJUnit.assertEquals(title, "Products");
 	}
 
+	// Test case for invalid password
 	/*@Test(priority = 2)
 	public void invalidLogin()
 	{
