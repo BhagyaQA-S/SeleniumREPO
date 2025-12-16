@@ -78,7 +78,7 @@ AutomationFramework
 ### Prerequisites
 - Java JDK 8 or higher
 - Maven
-- Eclipse or IntelliJ IDEA
+- Eclipse
 - Chrome Browser
 - ChromeDriver
 
