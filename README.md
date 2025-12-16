@@ -31,34 +31,32 @@ The framework validates core e-commerce functionalities such as login, product s
 ---
 
 ## Project Structure
-Jenkins.com (SeleniumREPO)
-│
+AutomationFramework
 ├── src
-│   ├── main
-│   │   ├── java
-│   │   └── resources
-│   │
-│   ├── test
-│   │   ├── java
-│   │   │   └── NG_MA_SE_Jenkins.Jenkins.com
-│   │   │       ├── App.java
-│   │   │       ├── AppTest.java
-│   │   │       ├── BaseFix.java
-│   │   │       ├── CartTest.java
-│   │   │       ├── Demo.java
-│   │   │       ├── LogInZig.java
-│   │   │       ├── OutCard.java
-│   │   │       └── ProductAdd.java
-│   │   │
-│   │   └── resources
-│   │
+│ ├── main
+│ │ ├── java
+│ │ └── resources
+│ │
+│ ├── test
+│ │ ├── java
+│ │ │ └── NG_MA_SE_Jenkins.Jenkins.com
+│ │ │ ├── App.java
+│ │ │ ├── AppTest.java
+│ │ │ ├── BaseFix.java
+│ │ │ ├── CartTest.java
+│ │ │ ├── Demo.java
+│ │ │ ├── LogInZig.java
+│ │ │ ├── OutCard.java
+│ │ │ └── ProductAdd.java
+│ │ │
+│ │ └── resources
+│
 ├── test-output
 ├── target
-│
 ├── pom.xml
 ├── testng.xml
 ├── README.md
-├── Jenkinsfile   
+├── Jenkinsfile 
 
 
 ---
